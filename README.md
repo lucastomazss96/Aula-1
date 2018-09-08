@@ -4,4 +4,4 @@
 * Slides da aula;
 * Códigos fornecidos pelo professor;
 * Resultados dos códigos;
-Obs: Anotações feitas nos códigos; tabelas e outros arquivos salvados serão subidos pra cá.
+* Obs: Anotações feitas nos códigos; tabelas e outros arquivos salvados serão subidos pra cá.
